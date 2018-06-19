@@ -8,7 +8,7 @@
 * [Visual Search: The Future of Search](https://medium.com/gsi-technology/visual-search-the-future-of-search-2addfed19689)
 * [The Visual Search Revolution](https://medium.com/gsi-technology/the-visual-similarity-search-revolution-83c4db1cdea3)
 * [Keras vs TensorFlow](https://medium.com/@dganais/keras-vs-tensorflow-75a59ee8134e)
-
+* [A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
 
 ## NLP
 
