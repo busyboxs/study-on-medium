@@ -21,6 +21,10 @@
 ## Machine Learning
 
 * [A Complete Machine Learning Project Walk-Through in Python: Part One](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
+* [Model Evaluation & Selection — I](https://heartbeat.fritz.ai/model-evaluation-selection-i-30d803a44ee)
+- [ ] [Choosing the Right Metric for Evaluating ML Models — Part 1](https://towardsdatascience.com/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4)
+- [ ] [Choosing the Right Metric for Evaluating Machine Learning Models — Part 2](https://towardsdatascience.com/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
+
 
 ## Data science
 
