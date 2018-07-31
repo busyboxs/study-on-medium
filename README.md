@@ -9,6 +9,7 @@
 * [The Visual Search Revolution](https://medium.com/gsi-technology/the-visual-similarity-search-revolution-83c4db1cdea3)
 * [Keras vs TensorFlow](https://medium.com/@dganais/keras-vs-tensorflow-75a59ee8134e)
 * [A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
+* [Build Your First Deep Learning Classifier using TensorFlow: Dog Breed Example](https://towardsdatascience.com/build-your-first-deep-learning-classifier-using-tensorflow-dog-breed-example-964ed0689430)
 
 ## NLP
 
