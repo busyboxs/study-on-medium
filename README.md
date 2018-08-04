@@ -30,3 +30,7 @@
 ## Data science
 
 * [Python for Data Science: 8 Concepts You May Have Forgotten](https://towardsdatascience.com/python-for-data-science-8-concepts-you-may-have-forgotten-i-did-825966908393)
+
+## model deployment
+
+* [Deploying Keras Deep Learning Models with Flask](https://towardsdatascience.com/deploying-keras-deep-learning-models-with-flask-5da4181436a2)
