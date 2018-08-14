@@ -36,3 +36,11 @@
 ## model deployment
 
 * [Deploying Keras Deep Learning Models with Flask](https://towardsdatascience.com/deploying-keras-deep-learning-models-with-flask-5da4181436a2)
+
+
+## to do
+
+- [ ] [Understanding SVMs’: For Image Classification](https://medium.com/@dataturks/understanding-svms-for-image-classification-cf4f01232700)
+- [ ] [Meta-learning: how we address the shortcomings of our deep networks?](https://medium.com/@jonathan_hui/meta-learning-how-we-address-the-shortcomings-of-our-deep-networks-a008aa4b5b2b)
+- [ ] [Get started with NLP (Part II): overview of an NLP workflow](https://medium.com/@gon.esbuyo/get-started-with-nlp-part-ii-overview-of-an-nlp-workflow-7ba1f5948b24)
+
