@@ -12,6 +12,7 @@
 * [Build Your First Deep Learning Classifier using TensorFlow: Dog Breed Example](https://towardsdatascience.com/build-your-first-deep-learning-classifier-using-tensorflow-dog-breed-example-964ed0689430)
 * [Don’t Use Dropout in Convolutional Networks](https://medium.com/@harrisonjansma/dont-use-dropout-in-convolutional-networks-81486c823c16)
 * [How to Automate Surveillance Easily with Deep Learning](https://medium.com/nanonets/how-to-automate-surveillance-easily-with-deep-learning-4eb4fa0cd68d)
+* [Tensorflow Records? What they are and how to use them](https://medium.com/mostly-ai/tensorflow-records-what-they-are-and-how-to-use-them-c46bc4bbb564)
 
 ## NLP
 
