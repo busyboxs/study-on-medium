@@ -16,6 +16,7 @@
 * [Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)
 * [SSD object detection: Single Shot MultiBox Detector for real-time processing](https://medium.com/@jonathan_hui/ssd-object-detection-single-shot-multibox-detector-for-real-time-processing-9bd8deac0e06)
 * [Object detection: speed and accuracy comparison (Faster R-CNN, R-FCN, SSD, FPN, RetinaNet and YOLOv3)](https://medium.com/@jonathan_hui/object-detection-speed-and-accuracy-comparison-faster-r-cnn-r-fcn-ssd-and-yolo-5425656ae359)
+* [How I used Deep Learning to Optimize an Ecommerce Business Process with Keras](https://towardsdatascience.com/how-i-used-deep-learning-to-optimize-an-ecommerce-business-process-with-keras-8ba328e12d9c)
 
 ## NLP
 
@@ -31,6 +32,7 @@
 * [Model Evaluation & Selection — I](https://heartbeat.fritz.ai/model-evaluation-selection-i-30d803a44ee)
 - [ ] [Choosing the Right Metric for Evaluating ML Models — Part 1](https://towardsdatascience.com/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4)
 - [ ] [Choosing the Right Metric for Evaluating Machine Learning Models — Part 2](https://towardsdatascience.com/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
+* [Classifying wines by quality using machine learning](https://medium.com/@wilamelima/classifying-wines-by-quality-1d5664df9a81)
 
 
 ## Data science
