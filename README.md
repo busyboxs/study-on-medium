@@ -33,6 +33,7 @@
 - [ ] [Choosing the Right Metric for Evaluating ML Models — Part 1](https://towardsdatascience.com/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4)
 - [ ] [Choosing the Right Metric for Evaluating Machine Learning Models — Part 2](https://towardsdatascience.com/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
 * [Classifying wines by quality using machine learning](https://medium.com/@wilamelima/classifying-wines-by-quality-1d5664df9a81)
+* [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 
 
 ## Data science
