@@ -18,6 +18,10 @@
 * [Object detection: speed and accuracy comparison (Faster R-CNN, R-FCN, SSD, FPN, RetinaNet and YOLOv3)](https://medium.com/@jonathan_hui/object-detection-speed-and-accuracy-comparison-faster-r-cnn-r-fcn-ssd-and-yolo-5425656ae359)
 * [How I used Deep Learning to Optimize an Ecommerce Business Process with Keras](https://towardsdatascience.com/how-i-used-deep-learning-to-optimize-an-ecommerce-business-process-with-keras-8ba328e12d9c)
 
+### semantic segmentation
+
+- [x] [How to use DeepLab in TensorFlow for object segmentation using Deep Learning](https://medium.freecodecamp.org/how-to-use-deeplab-in-tensorflow-for-object-segmentation-using-deep-learning-a5777290ab6b)
+
 ## NLP
 
 * [Sentiment Analysis through LSTMs](https://towardsdatascience.com/sentiment-analysis-through-lstms-3d6f9506805c)
