@@ -69,7 +69,7 @@
 - [ ] [All the Backpropagation derivatives](https://medium.com/@pdquant/all-the-backpropagation-derivatives-d5275f727f60)
 - [ ] [The Deep Learning(.ai) Dictionary](https://towardsdatascience.com/the-deep-learning-ai-dictionary-ade421df39e4)
 - [ ] [Building an image search service from scratch](https://blog.insightdatascience.com/the-unreasonable-effectiveness-of-deep-learning-representations-4ce83fc663cf)
-- [ ] [An Introduction To Neural Networks Using Google’s Tensorflow](An Introduction To Neural Networks Using Google’s Tensorflow)
+- [ ] [An Introduction To Neural Networks Using Google’s Tensorflow](https://medium.com/@ubajakacj/an-introduction-to-neural-networks-using-googles-tensorflow-b169047f677)
 - [ ] [Regularisation: do I really need you?](https://medium.com/diogo-menezes-borges/regularisation-do-i-really-need-you-74a5af9e1399)
 - [ ] [Binary Decision Trees](https://medium.com/@Packt_Pub/binary-decision-trees-1ec94cfed208)
 - [ ] [Data Augmentation for Object detection: Rethinking image transforms for bounding boxes](https://medium.com/paperspace/data-augmentation-for-object-detection-rethinking-image-transforms-for-bounding-boxes-fe229905a1c3)
