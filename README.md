@@ -83,6 +83,10 @@
 - [ ] [Multi-Layer perceptron using Tensorflow](https://medium.com/@aayushmnit/multi-layer-perceptron-using-tensorflow-9f3e218a4809)
 - [ ] [Improve Accuracy of OCR using Image Preprocessing](https://medium.com/cashify-engineering/improve-accuracy-of-ocr-using-image-preprocessing-8df29ec3a033)
 - [ ] [Semantic Segmentation with Deep Learning: A guide and code](https://towardsdatascience.com/semantic-segmentation-with-deep-learning-a-guide-and-code-e52fc8958823)
+- [ ] [Understanding RMSprop — faster neural network learning](https://towardsdatascience.com/understanding-rmsprop-faster-neural-network-learning-62e116fcf29a)
+- [ ] [I want to learn Artificial Intelligence and Machine Learning. Where can I start?](https://hackernoon.com/i-want-to-learn-artificial-intelligence-and-machine-learning-where-can-i-start-7a392a3086ec)
+- [ ] [Computer Vision: Keep a Sharp Eye on the Road](https://medium.com/@intellias/computer-vision-keep-a-sharp-eye-on-the-road-intellias-blog-3f104300bec0)
+
 
 
 
