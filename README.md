@@ -76,12 +76,12 @@
 - [ ] [Artificial Neural Network and it’s contribution to Machine Learning — A beginner’s hand-book](https://blog.goodaudience.com/artificial-neural-networks-and-its-contribution-to-machine-learning-a-beginner-s-hand-book-ab7f4e7b230e)
 - [ ] [Processing XML in Python — ElementTree](https://towardsdatascience.com/processing-xml-in-python-elementtree-c8992941efd2)
 - [ ] [Artificial Intelligence Programming Python](https://medium.com/@rinu.gour123/artificial-intelligence-programming-python-d3d9a4e03b92)
-- [ ] [Extracting Insights from a Kaggle Dataset Using Python’s Pandas and SeaBorn](Extracting Insights from a Kaggle Dataset Using Python’s Pandas and SeaBorn)
+- [ ] [Extracting Insights from a Kaggle Dataset Using Python’s Pandas and SeaBorn](https://towardsdatascience.com/olympics-kaggle-dataset-exploratory-analysis-part-2-understanding-sports-4b8d73a8ec30)
 - [ ] [Machine learning — Is the emperor wearing clothes?](https://hackernoon.com/machine-learning-is-the-emperor-wearing-clothes-59933d12a3cc)
 - [ ] [Getting Started With Network Datasets](https://towardsdatascience.com/getting-started-with-network-datasets-92ec54958c07)
-- [ ] [Web Scraping with Python and BeautifulSoup](Web Scraping with Python and BeautifulSoup)
+- [ ] [Web Scraping with Python and BeautifulSoup](https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe)
 - [ ] [Multi-Layer perceptron using Tensorflow](https://medium.com/@aayushmnit/multi-layer-perceptron-using-tensorflow-9f3e218a4809)
-- [ ] [Improve Accuracy of OCR using Image Preprocessing](Improve Accuracy of OCR using Image Preprocessing)
+- [ ] [Improve Accuracy of OCR using Image Preprocessing](https://medium.com/cashify-engineering/improve-accuracy-of-ocr-using-image-preprocessing-8df29ec3a033)
 - [ ] [Semantic Segmentation with Deep Learning: A guide and code](https://towardsdatascience.com/semantic-segmentation-with-deep-learning-a-guide-and-code-e52fc8958823)
 
 
